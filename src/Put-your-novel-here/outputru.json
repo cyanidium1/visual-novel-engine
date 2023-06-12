@@ -7,7 +7,8 @@
     "f1": "p1",
     "f2": "p2",
     "f3": "p3",
-    "f3possibleIf": "kusam"
+    "f3possibleIf": "kusam",
+    "bg": "https://media.lajmifundit.al/lajmifundit.al/media3/-1200-630-63013a0432383.png"
   },
   "p2": {
     "p": "Ты подошел к КПП. На тебя вышел посмотреть военный(homo-ushtarakus). ",
@@ -17,7 +18,8 @@
     "f1": "p21",
     "f2": "p22",
     "f3": "",
-    "f2possibleIf": "money"
+    "f2possibleIf": "money",
+    "bg": "https://cdnimpuls.com/dosja.al/media3/-800-450-1677915361x22albania-spies-01-cwhq-superjumbo-877.webp"
 
   },
   "p21": {
@@ -55,7 +57,8 @@
     "b3": "",
     "f1": "p223",
     "f2": "",
-    "f3": ""
+    "f3": "",
+    "bg": "https://sun9-62.userapi.com/impg/o40rs9Z05Geo5t4MD6AcFQ81YWhi7kpJYT684Q/pwHkhcW62HQ.jpg?size=1280x793&quality=95&sign=6b16a9dce33ad08264e07c33f87ed700&type=album"
   },
   "p223": {
     "p": "Ты достаешь фотоаппарат, однако тебе запрещают съемку потому что объект якобы очень секретный. Ты расстраиваешься и приводишь аргумент что завод 100 лет заброшен, проржавел до основания. Начохраны говорит что это он только выглядит заброшенным и на самом деле тут в еще более секретных подземных цехах все еще трудятся рабочие.",
@@ -64,7 +67,8 @@
     "b3": "",
     "f1": "p224",
     "f2": "",
-    "f3": ""
+    "f3": "",
+    "bg": "https://sun9-70.userapi.com/impg/TOrDlnuXSA099CreZcLZZ_me6KihStQ0w8UKgA/uVgfTcMfgPY.jpg?size=1280x676&quality=95&sign=a666b19e3297ecdafcf640ae14bd8ac4&type=album"
   },
   "p224": {
     "p": "Ты уходишь с объекта не сделав ниодной фотографии. Друзья не верят твоим рассказам, а отчет на urban3p без фоток заминусовывают все кому не лень. Ты впадаешь в депрессию и совершаешь суецыд.",
@@ -73,7 +77,8 @@
     "b3": "",
     "f1": "",
     "f2": "",
-    "f3": ""
+    "f3": "",
+    "bg": "https://sun9-27.userapi.com/impg/nEKzBUB7vF1wczcOO5cWtcMw3BZGCdksyy098g/3MydnCJBV9I.jpg?size=640x372&quality=95&sign=f7ad4db20f4366f51b7133c6d60132c5&type=album"
   },
   "p1": {
     "p": "Ты прогулялся вокруг территории и нашел старые ворота. За ними немного кустов ежевики, зато нет колючей проволоки.",
@@ -82,7 +87,9 @@
     "b3": "",
     "f1": "p102",
     "f2": "",
-    "f3": ""
+    "f3": "",
+    "bg": "https://a2news.com/wp-content/uploads/2022/08/uzina-gramsh-ruset-1-1280x720.png"
+
   },
   "p3": {
     "p": "Ты сделал залаз на терру точно напротив самого большого цеха, откусив кусачками колючую проволоку и перелез ограду.",
