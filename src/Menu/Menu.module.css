@@ -11,16 +11,6 @@
     background-image: url('https://sun9-70.userapi.com/impf/c837439/v837439401/5512a/HYYaTRWrPcw.jpg?size=1280x975&quality=96&sign=ef504d9262a5429eaf1a8ababaf6e8d6&type=album');
 }
 
-/* .box {
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
-    background: #27282c;
-} */
-
 .head {
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 48px;
@@ -33,18 +23,6 @@
     color: rgb(243, 148, 23);
     margin-bottom: 20px;
 }
-
-/* .item {
-    background-color: rgba(0, 0, 0, 0.5);
-    font-size: 32px;
-    border-radius: 20px;
-    padding: 10px;
-    width: 300px;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    margin-bottom: 20px;
-} */
 
 .item {
     text-align: center;
