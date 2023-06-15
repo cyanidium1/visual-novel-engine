@@ -7,14 +7,15 @@ import Credits from "./Credits/Credits";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Menu />} />
-        <Route path="/achievments" element={<Achievments />} />
-        <Route path="/credits" element={<Credits />} />
-        <Route path="/gameplay" element={<Gameplay />}></Route>
-      </Routes>
-    </BrowserRouter>
+    // <BrowserRouter>
+    //   <Routes>
+    //     <Route path="/menu" element={<Menu />} />
+    //     <Route path="/achievments" element={<Achievments />} />
+    //     <Route path="/credits" element={<Credits />} />
+    //     <Route path="/gameplay" element={<Gameplay />}></Route>
+    //   </Routes>
+    // </BrowserRouter>
+    <Gameplay />
   );
 }
 
