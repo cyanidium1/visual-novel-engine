@@ -15,9 +15,9 @@ const Frame = (props) => {
         <Button b={props.chLang} text={"Change language"}></Button>
         <p className={styles.language}>{props.lang}</p>
       </div>
-      {/* <Link className={styles.back} to={"/"}>
+      <Link className={styles.back} to={"/"}>
         Back
-      </Link> */}
+      </Link>
       <div className={styles.textBox}>
         <p className={styles.text}>{props.text.p}</p>
         <div className={styles.buttonBox}>
