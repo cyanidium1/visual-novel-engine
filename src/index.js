@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter basename="/visual-novel-engine">
+  <BrowserRouter>
     <App />
   </BrowserRouter>
 );
