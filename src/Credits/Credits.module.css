@@ -1,13 +1,17 @@
 .box {
-    text-align: center;
-    width: 90vw;
-    height: 90vh;
-    padding: 10px;
-    align-items: center;
-    background-position: 0 0;
-    background-size: cover;
-    background-image: url("https://avatars.dzeninfra.ru/get-zen_doc/4055632/pub_605364243729ca110e77169a_605399f329a80b6fd2180592/scale_1200");
-  }
+  position: relative;
+  margin: 0 auto;
+  width: 65vw;
+  height: 90vh;
+  padding: 10px;
+  background-position: 0 0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("https://avatars.dzeninfra.ru/get-zen_doc/4055632/pub_605364243729ca110e77169a_605399f329a80b6fd2180592/scale_1200");
+}
+
 /* 
   old styles
 
@@ -23,37 +27,36 @@
     text-decoration: none;
   } */
 
-  .back {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    margin-bottom: 10px;
-    background: #444;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 1.5rem;
-    letter-spacing: 0.1rem;
-    padding: 0.75rem 1.5rem;
-    transition: 0.5s;
+.back {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  margin-bottom: 10px;
+  background: #444;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  padding: 0.75rem 1.5rem;
+  transition: 0.5s;
 }
 
 .back:hover {
-    letter-spacing: 0.25rem;
-    background: #1e9bff;
-    box-shadow: 0 0 35px #1e9bff;
+  letter-spacing: 0.25rem;
+  background: #1e9bff;
+  box-shadow: 0 0 35px #1e9bff;
 }
 
-  .item {
-    background-color: rgba(0, 0, 0, 0.5);
-    font-size: 24px;
-    border-radius: 20px;
-    padding: 10px;
-    width: 600px;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    margin: auto;
-    margin-top: 60px;
+.item {
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 24px;
+  border-radius: 20px;
+  padding: 10px;
+  width: 600px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  margin: auto;
+  margin-top: 60px;
 }
-
